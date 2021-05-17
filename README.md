@@ -31,6 +31,7 @@ docker container run --name graphql-api -d -p 8080:8080 graphql-api # Ejecutamos
 Acceder a la URL <http://localhost:8080/gql>
 
 Queries disponibles:
+
 ![image](https://user-images.githubusercontent.com/2179475/118569149-9eea1980-b779-11eb-8def-055432fd6893.png)
 
 ![image](https://user-images.githubusercontent.com/2179475/118569173-ae696280-b779-11eb-8cfe-c91f2163b8c6.png)
